@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "chaqmoq-mysql",
+    name: "tuproq-mysql",
     products: [
         .library(name: "MySQL", targets: ["MySQL"])
     ],
